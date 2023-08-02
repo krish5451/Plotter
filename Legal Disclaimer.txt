@@ -1,0 +1,58 @@
+Plotter - Seismic Fragility Curve Analysis Application
+Legal Disclaimer
+
+**Important Notice**
+
+Please read this Legal Disclaimer ("Disclaimer") carefully before using the Seismic Fragility Curve Analysis Application ("the Application"). This Disclaimer governs your use of the Application, and by using the Application, you agree to be bound by the terms and conditions contained herein. If you do not agree with any part of this Disclaimer, please refrain from using the Application.
+
+**1. No Warranty**
+
+The Seismic Fragility Curve Analysis Application is provided on an "as is" basis without any warranties or representations, express or implied. The developer of the Application makes no representations or warranties of any kind, whether expressed or implied, regarding the accuracy, reliability, suitability, or availability of the Application or any information provided therein. The use of the Application is at your own risk.
+
+**2. Accuracy of Data**
+
+While the developer strives to ensure the accuracy and reliability of the data and calculations performed by the Application, it is ultimately the responsibility of the user to verify and validate the results obtained. The developer is not liable for any errors, inaccuracies, or omissions in the data or calculations presented by the Application.
+
+**3. Limited Liability**
+
+In no event shall the developer be liable for any direct, indirect, special, incidental, consequential, or punitive damages arising out of or in connection with the use or performance of the Application. This includes, but is not limited to, damages for loss of data, loss of profits, business interruption, or any other commercial or economic damages, even if the developer has been advised of the possibility of such damages.
+
+**4. No Professional Advice**
+
+The Seismic Fragility Curve Analysis Application is intended for informational purposes only and is not a substitute for professional engineering advice, analysis, or consultation. Users should seek the advice of qualified structural engineers or professionals for specific engineering projects and critical decision-making.
+
+**5. Upgrading and Compatibility**
+
+The developer may release updates, bug fixes, or new versions of the Application from time to time. Users are encouraged to upgrade to the latest version to access the most recent features and improvements. The developer does not guarantee backward compatibility with previous versions of the Application.
+
+**6. Third-Party Content**
+
+The Application may contain links or references to third-party websites, resources, or content. The developer is not responsible for the accuracy, legality, or appropriateness of such third-party content. The inclusion of any links does not imply endorsement or recommendation by the developer.
+
+**7. Copyright and Intellectual Property**
+
+The Seismic Fragility Curve Analysis Application and all its contents, including but not limited to text, graphics, images, icons, and software, are the property of the developer and are protected by international copyright laws. Unauthorized use or reproduction of the Application or its content may violate copyright laws and is strictly prohibited.
+
+**8. Modification and Termination**
+
+The developer reserves the right to modify, suspend, or terminate the Application or any part thereof at any time without prior notice or liability.
+
+**9. Indemnification**
+
+By using the Seismic Fragility Curve Analysis Application, you agree to indemnify, defend, and hold harmless the developer and its affiliates from any and all claims, losses, liabilities, damages, costs, or expenses (including legal fees) arising out of or related to your use of the Application or any violation of this Disclaimer.
+
+**10. Governing Law**
+
+This Disclaimer shall be governed by and construed in accordance with the laws of [your country/region]. Any disputes arising under or in connection with this Disclaimer shall be subject to the exclusive jurisdiction of the courts of [your country/region].
+
+By using the Seismic Fragility Curve Analysis Application, you acknowledge that you have read, understood, and agreed to the terms and conditions of this Disclaimer. If you do not agree with any part of this Disclaimer, please refrain from using the Application.
+
+**Contact Information**
+
+For technical support or assistance regarding the Seismic Fragility Curve Analysis Application, please contact:
+
+kgondaliya54@hotmail.com
+
+Date of Last Update: 01 August, 2023
+
+Note: This version of the Seismic Fragility Curve Analysis Application is a trial version, and the maximum ultimate point value is limited to 200 mm. For access to additional features and the full version of the application, please contact us for upgrade options and other applications for structural engineering.

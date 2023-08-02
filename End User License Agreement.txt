@@ -1,0 +1,109 @@
+**End User License Agreement (EULA)**
+
+Please read this End User License Agreement ("EULA") carefully before using the Seismic Fragility Curve Analysis Application ("the Application"). This EULA is a legal agreement between you ("the User") and [Your Company/Developer Name] ("the Developer") regarding the use of the Application. By installing, using, or accessing the Application, you agree to be bound by the terms and conditions of this EULA. If you do not agree with any part of this EULA, please refrain from using the Application.
+
+**1. License Grant**
+
+The Developer grants the User a non-exclusive, non-transferable, revocable license to use the Seismic Fragility Curve Analysis Application for personal or professional purposes, subject to the terms and conditions of this EULA.
+
+**2. Restrictions on Use**
+
+The User shall not:
+
+a) Reverse engineer, decompile, disassemble, modify, or create derivative works based on the Application or any part thereof.
+
+b) Use the Application for any illegal, unauthorized, or unethical purpose.
+
+c) Remove or alter any copyright, trademark, or proprietary notices from the Application or its content.
+
+d) Distribute, sublicense, rent, lease, lend, or otherwise transfer the Application to any third party.
+
+**3. Ownership and Intellectual Property**
+
+The Seismic Fragility Curve Analysis Application and all its contents, including but not limited to text, graphics, images, icons, and software, are the property of the Developer and are protected by international copyright and intellectual property laws. The User acknowledges and agrees that the Application is licensed, not sold, and the User has no ownership rights in the Application.
+
+**4. Privacy Policy**
+
+The User's privacy is important to the Developer. The Developer's Privacy Policy, available at [Link to Privacy Policy], explains how the Developer collects, uses, and safeguards the User's personal information. By using the Application, the User consents to the collection, use, and disclosure of personal information in accordance with the Privacy Policy.
+
+**5. Disclaimer of Warranty**
+
+The Seismic Fragility Curve Analysis Application is provided on an "as is" basis without any warranties or representations, express or implied. The Developer disclaims all warranties, whether expressed or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The User assumes all risks associated with the use of the Application.
+
+**6. Limitation of Liability**
+
+In no event shall the Developer be liable for any direct, indirect, special, incidental, consequential, or punitive damages arising out of or in connection with the use or performance of the Application. This includes, but is not limited to, damages for loss of data, loss of profits, business interruption, or any other commercial or economic damages, even if the Developer has been advised of the possibility of such damages.
+
+**7. Governing Law**
+
+This EULA shall be governed by and construed in accordance with the laws of [Your Country/Region]. Any disputes arising under or in connection with this EULA shall be subject to the exclusive jurisdiction of the courts of [Your Country/Region].
+
+**8. Modification and Termination**
+
+The Developer reserves the right to modify, suspend, or terminate this EULA or the Application at any time without prior notice or liability.
+
+**9. Entire Agreement**
+
+This EULA constitutes the entire agreement between the User and the Developer regarding the use of the Seismic Fragility Curve Analysis Application and supersedes all prior agreements and understandings, whether written or oral.
+
+By using the Seismic Fragility Curve Analysis Application, you acknowledge that you have read, understood, and agreed to the terms and conditions of this EULA. If you do not agree with any part of this EULA, please refrain from using the Application.
+
+**Contact Information**
+
+For technical support or assistance regarding the Seismic Fragility Curve Analysis Application, please contact:
+
+[Your Contact Information]
+
+Date of Last Update: [Date]
+
+---
+
+**Privacy Policy**
+
+[Your Company/Developer Name] ("the Developer") is committed to protecting the privacy and confidentiality of its users ("the Users") of the Seismic Fragility Curve Analysis Application ("the Application"). This Privacy Policy explains how the Developer collects, uses, and safeguards the personal information of Users.
+
+**1. Collection of Personal Information**
+
+The Developer may collect personal information from Users when they use the Application, request technical support, or contact the Developer. Personal information may include, but is not limited to, the User's name, email address, contact details, and other information voluntarily provided by the User.
+
+**2. Use of Personal Information**
+
+The Developer may use the collected personal information for the following purposes:
+
+a) To provide and improve the functionality and features of the Application.
+
+b) To respond to User inquiries, feedback, or technical support requests.
+
+c) To send periodic emails or notifications related to the Application and updates.
+
+**3. Protection of Personal Information**
+
+The Developer implements reasonable security measures to protect the personal information of Users from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is entirely secure, and the Developer cannot guarantee the absolute security of personal information.
+
+**4. Sharing of Personal Information**
+
+The Developer does not sell, trade, or otherwise transfer Users' personal information to third parties without explicit consent, except for the purposes of providing support, improving the Application, or as required by law.
+
+**5. Third-Party Websites**
+
+The Application may contain links to third-party websites or services. The Developer is not responsible for the privacy practices or content of such third-party sites. Users are encouraged to review the privacy policies of these third-party websites before providing any personal information.
+
+**6. Changes to the Privacy Policy**
+
+The Developer reserves the right to modify, amend, or update this Privacy Policy from time to time to reflect changes in the law or the Developer's privacy practices. Users are encouraged to review this Privacy Policy periodically for any updates.
+
+**7. Consent**
+
+By using the Seismic Fragility Curve Analysis Application, Users consent to the collection, use, and disclosure of personal information in accordance with this Privacy Policy.
+
+**8. Contact Information**
+
+For questions, concerns, or requests regarding this Privacy Policy or the Application, please contact:
+
+kgondaliya54@hotmail.com
+
+Date of Last Update: 1 August, 2023
+
+---
+
+By using the Seismic Fragility Curve Analysis Application, you acknowledge that you have read, understood, and agreed to the terms and conditions of this Privacy Policy. If you do not agree with any part of this Privacy Policy, please refrain from using the Application.
